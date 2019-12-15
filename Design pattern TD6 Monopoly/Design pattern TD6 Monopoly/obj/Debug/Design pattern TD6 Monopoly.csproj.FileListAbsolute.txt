@@ -1,0 +1,6 @@
+C:\Users\Yann Abou Jaoude\Documents\Visual Studio 2015\Projects\Design pattern TD6 Monopoly\Design pattern TD6 Monopoly\bin\Debug\Design pattern TD6 Monopoly.exe.config
+C:\Users\Yann Abou Jaoude\Documents\Visual Studio 2015\Projects\Design pattern TD6 Monopoly\Design pattern TD6 Monopoly\bin\Debug\Design pattern TD6 Monopoly.exe
+C:\Users\Yann Abou Jaoude\Documents\Visual Studio 2015\Projects\Design pattern TD6 Monopoly\Design pattern TD6 Monopoly\bin\Debug\Design pattern TD6 Monopoly.pdb
+C:\Users\Yann Abou Jaoude\Documents\Visual Studio 2015\Projects\Design pattern TD6 Monopoly\Design pattern TD6 Monopoly\obj\Debug\Design pattern TD6 Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Yann Abou Jaoude\Documents\Visual Studio 2015\Projects\Design pattern TD6 Monopoly\Design pattern TD6 Monopoly\obj\Debug\Design pattern TD6 Monopoly.exe
+C:\Users\Yann Abou Jaoude\Documents\Visual Studio 2015\Projects\Design pattern TD6 Monopoly\Design pattern TD6 Monopoly\obj\Debug\Design pattern TD6 Monopoly.pdb
